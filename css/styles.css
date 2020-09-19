@@ -1,0 +1,30 @@
+/*****************Tag Selector**************/
+
+body {
+  background-color: #badfdb;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color: #ff8a5c;
+  width: 600px;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color:#66BFBF;
+}
+
+h3{
+  color:#49beb7;
+}
+
+/*****************Class Selector**************/
+
+.circular {
+  border-radius: 100%;
+}
